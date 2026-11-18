@@ -1,0 +1,30 @@
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+dist/
+build/
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+dist/
+build/
+
+# Temporary
+*.tmp
+*.temp
